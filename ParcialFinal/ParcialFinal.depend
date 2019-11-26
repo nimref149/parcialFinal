@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1574473366 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	"input.h"
+
+1574473395 c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal\input.h
+
+1574546562 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"llamada.h"
+	"controller.h"
+	"parser.h"
+	<string.h>
+	"input.h"
+
+1574520276 c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal\linkedlist.h
+
+1574472940 c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal\llamada.h
+
+1574556245 c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal\controller.h
+
+1574462236 c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal\parser.h
+
+1574554231 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"llamada.h"
+	"input.h"
+
+1574520278 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574545411 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal\llamada.c
+	<stdlib.h>
+	<string.h>
+	"llamada.h"
+	<stdio.h>
+	"input.h"
+
+1574470821 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"llamada.h"
+	"parser.h"
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"input.h"
+
