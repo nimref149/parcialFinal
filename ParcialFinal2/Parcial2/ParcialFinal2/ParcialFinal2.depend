@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1574566621 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2\parcialfinal2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574566594 c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2\parcialfinal2\linkedlist.h
+
+1574566747 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2\parcialfinal2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"alumnos.h"
+	"index.h"
+
+1574551192 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2\parcialfinal2\index.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	"index.h"
+
+1574550709 c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2\parcialfinal2\index.h
+
+1574566365 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2\parcialfinal2\alumnos.c
+	<stdlib.h>
+	<string.h>
+	"alumnos.h"
+	<stdio.h>
+	"index.h"
+
+1574566332 c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2\parcialfinal2\alumnos.h
+
+1574566718 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2\parcialfinal2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"alumnos.h"
+	"controller.h"
+	"parser.h"
+	<string.h>
+	"index.h"
+
+1574566780 c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2\parcialfinal2\controller.h
+
+1574551350 c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2\parcialfinal2\parser.h
+
+1574560075 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2\parcialfinal2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"alumnos.h"
+	"parser.h"
+	"index.h"
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"input.h"
+

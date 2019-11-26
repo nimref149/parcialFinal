@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1530045970 source:c:\test\gferrer\parcial2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529695821 c:\test\gferrer\parcial2\arraylist.h
+
+1530045970 source:c:\test\gferrer\parcial2\genericas.c
+	"genericas.h"
+
+1529696179 c:\test\gferrer\parcial2\genericas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1530308664 source:c:\test\gferrer\parcial2\estructura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"genericas.h"
+
+1530309080 c:\test\gferrer\parcial2\estructura.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"genericas.h"
+
+1530302747 source:c:\test\gferrer\parcial2\parser.c
+
+1530308658 source:c:\test\gferrer\parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"genericas.h"
+
+1530323930 source:e:\documentos\tecnicatura\programacion\parcial2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530323930 e:\documentos\tecnicatura\programacion\parcial2\arraylist.h
+
+1530330544 source:e:\documentos\tecnicatura\programacion\parcial2\estructura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"genericas.h"
+
+1530328653 e:\documentos\tecnicatura\programacion\parcial2\estructura.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"genericas.h"
+
+1530323930 e:\documentos\tecnicatura\programacion\parcial2\genericas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1530323930 source:e:\documentos\tecnicatura\programacion\parcial2\genericas.c
+	"genericas.h"
+
+1530327024 source:e:\documentos\tecnicatura\programacion\parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"genericas.h"
+
+1530323930 source:e:\documentos\tecnicatura\programacion\parcial2\parser.c
+
+1530316606 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2-master\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530316606 c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2-master\arraylist.h
+
+1530316606 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2-master\estructura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"genericas.h"
+
+1530316606 c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2-master\estructura.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"genericas.h"
+
+1530316606 c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2-master\genericas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1530316606 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2-master\genericas.c
+	"genericas.h"
+
+1530316606 source:c:\users\cristiandmk\desktop\nuevo laboratorio\laboratorio-1-master\laboratorio-1-master\parcialfinal2\parcial2-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"genericas.h"
+
